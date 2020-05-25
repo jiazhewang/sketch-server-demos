@@ -1,0 +1,21 @@
+{
+  "name": "sketch-server-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo1-unzip": "node demos/archive-and-unarchive/scripts/unzip.js",
+    "demo1-zip": "node demos/archive-and-unarchive/scripts/zip.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiazhewang/sketch-server-demos.git"
+  },
+  "author": "neoddish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiazhewang/sketch-server-demos/issues"
+  },
+  "homepage": "https://github.com/jiazhewang/sketch-server-demos#readme"
+}
