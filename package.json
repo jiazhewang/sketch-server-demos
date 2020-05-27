@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jiazhewang/sketch-server-demos/issues"
   },
-  "homepage": "https://github.com/jiazhewang/sketch-server-demos#readme"
+  "homepage": "https://github.com/jiazhewang/sketch-server-demos#readme",
+  "dependencies": {
+    "@sketch-hq/sketch-file-format": "^3.6.0"
+  }
 }
